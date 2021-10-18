@@ -1,0 +1,18 @@
+{
+    "name": "eleonore/composer3",
+    "description": "Quete composer 3",
+    "autoload": {
+        "psr-4": {
+            "Eleonore\\Composer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eleonore",
+            "email": "eleonoregouze33@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "1.1.0"
+    }
+}
